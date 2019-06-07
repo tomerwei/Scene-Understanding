@@ -11,5 +11,9 @@ A Collection of Links to Virtual and Real Scene Understanding Research.
 - Organizing Heterogeneous Scene Collections through Contextual Focal Points - Xu et al. [[Link]](https://kevinkaixu.net/projects/focal.html): Siggraph 2014
 - Game Level Layout from Design Specification - Ma et al. [[Link]](http://chongyangma.com/publications/gl/): Eurographics 2014
 - Interactive Furniture Layout Using Interior Design Guidelines - Merrell et al. [[Link]](http://graphics.stanford.edu/%7Epmerrell/furnitureLayout.htm): Siggraph 2011
+- Automatic Furniture Arrangement Using Greedy Cost Minimization - Kan et al. [[Link]](http://www.peterkan.com/download/ieeevr2018.pdf): IEEE VR 2018
 
+
+## Evolutionary Algorithms
+- Automated Interior Design Using a Genetic Algorithm - Kan et al. [[Link]](http://m.artkeramik.peterkan.com/download/vrst2017.pdf): VRST 2017
 
